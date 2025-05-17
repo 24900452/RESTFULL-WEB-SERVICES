@@ -1,7 +1,6 @@
 # RESTful Web Services
 
 ### Date:
-
 ## Aim
 
 To create RESTful web services using both server-side and client-side implementations.
